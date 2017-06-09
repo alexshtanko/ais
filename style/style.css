@@ -2,3 +2,8 @@
 body {
   background: orange;
 }
+
+/* line 4, ../sass/style.scss */
+h1 {
+  color: red;
+}
